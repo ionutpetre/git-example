@@ -14,7 +14,7 @@ function bodyLoadHandler() {
 }
 
 function btnClickHandler() {
-    yourName = prompt(promptMessage, defaultName);
+    yourName = prompt(promptMessage, GhitoiuR);
     if (yourName != null) {
         setHeading1(yourName);
     }
