@@ -1,4 +1,4 @@
-var helloMessage = 'Hello World, from ',
+var helloMessage = 'Hello World, from Itzaru',
     helloEmoticon = ' :)',
     promptMessage = 'Please enter your name',
     //Change this line of code, by adding your name
