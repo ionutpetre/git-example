@@ -2,7 +2,7 @@ var helloMessage = 'Hello World, from ',
     helloEmoticon = ' :)',
     promptMessage = 'Please enter your name',
     //Change this line of code, by adding your name
-    defaultName = 'John Doe';
+    defaultName = 'Ionela';
 
 function setHeading1(name) {
     var h1Elem = document.getElementsByTagName('h1')[0];
